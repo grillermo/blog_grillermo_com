@@ -1,0 +1,21 @@
+.container {
+    
+}
+
+.site {
+    position: relative;
+    width: 100%;
+    max-width: $site-width;
+    min-height: 100vh;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #fff;
+}
+
+#primary {
+    max-width: $content-width;
+    width: 100%;
+    padding: 5rem 0.625rem 0.625rem;
+    margin-left: auto;
+    margin-right: auto;
+}

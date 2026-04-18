@@ -1,0 +1,188 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Hacker\n"
+"POT-Creation-Date: 2016-05-04 16:33+0800\n"
+"PO-Revision-Date: 2016-05-04 16:33+0800\n"
+"Last-Translator: moyu <moyuboy@gmail.com>\n"
+"Language-Team: moyu <moyuboy@gmail.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:12
+msgid "404"
+msgstr ""
+
+#: 404.php:14
+msgid "It looks like nothing was found at this location."
+msgstr "你输入的地址不存在或者已被删除."
+
+#: comments.php:25
+msgid "No Comments"
+msgstr "暂无评论"
+
+#: comments.php:25 inc/template-tags.php:73
+msgid "1 Comment"
+msgstr "1 条评论"
+
+#: comments.php:25 inc/template-tags.php:73
+msgid "% Comments"
+msgstr "% 条评论"
+
+#: comments.php:36
+msgid "&larr; Older Comments"
+msgstr "&larr; 下一页"
+
+#: comments.php:37
+msgid "Newer Comments &rarr;"
+msgstr "上一页 &rarr;"
+
+#: comments.php:47
+msgid "Comments are closed."
+msgstr "评论功能已关闭."
+
+#: footer.php:19
+#, php-format
+msgid "Proudly powered by %s"
+msgstr ""
+
+#: footer.php:26
+#, php-format
+msgid "Theme by %s"
+msgstr ""
+
+#: functions.php:50
+msgid "Primary"
+msgstr "主菜单"
+
+#: inc/template-tags.php:30
+msgid "- [Edit]"
+msgstr "- [编辑]"
+
+#: inc/template-tags.php:43
+msgctxt "Used between list items, there is a space after the comma."
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:46
+msgctxt "Used before category names."
+msgid "Categories"
+msgstr "目录 "
+
+#: inc/template-tags.php:73
+msgid "No Comment"
+msgstr "暂无评论"
+
+#: inc/template-tags.php:157
+msgid "Your comment is awaiting approval."
+msgstr "你的评论正在等待审核."
+
+#: inc/template-tags.php:170
+msgid "Say something nice!"
+msgstr "输入你的评论."
+
+#: inc/template-tags.php:192
+msgid "Name"
+msgstr "姓名"
+
+#: inc/template-tags.php:194
+msgid "Email"
+msgstr ""
+
+#: inc/template-tags.php:196
+msgid "Website"
+msgstr "网站"
+
+#: inc/template-tags.php:207
+msgid "To view this protected post, enter the password below:"
+msgstr "请输入密码浏览本文:"
+
+#: inc/template-tags.php:208
+msgid "Password:"
+msgstr "密码:"
+
+#: inc/template-tags.php:208
+msgid "Submit"
+msgstr "提交"
+
+#: single.php:27 template-parts/content-quote.php:5
+#: template-parts/content.php:31
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "继续阅读<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#: single.php:31
+msgid "Pages:"
+msgstr "分页:"
+
+#: single.php:35
+msgid "Page"
+msgstr "页"
+
+#: template-parts/content-none.php:2
+msgid "Nothing Found."
+msgstr "暂无内容."
+
+#~ msgid "You already liked this post!"
+#~ msgstr "你已经赞过此文章了！"
+
+#~ msgid "Hacker Customize"
+#~ msgstr "Hacker 自定义"
+
+#~ msgid "Primary Color"
+#~ msgstr "主色调"
+
+#~ msgid "Post excerpt length"
+#~ msgstr "摘要长度"
+
+#~ msgid "Color Palette"
+#~ msgstr "配色方案"
+
+#~ msgid "Default"
+#~ msgstr "默认"
+
+#~ msgid "Dark"
+#~ msgstr "黑夜"
+
+#~ msgid "Boxed Layout"
+#~ msgstr "固定宽度"
+
+#~ msgid "&larr;Newer"
+#~ msgstr "&larr;上一页"
+
+#~ msgid "Older&rarr;"
+#~ msgstr "下一页&rarr;"
+
+#~ msgid "Theme License"
+#~ msgstr "主题激活\t"
+
+#~ msgid "License Key"
+#~ msgstr "激活码"
+
+#~ msgid "Please enter your theme license key."
+#~ msgstr "请输入你的主题激活码，你将享受到主题更新提醒。"
+
+#~ msgid "License Status"
+#~ msgstr "激活状态"
+
+#~ msgid "valid"
+#~ msgstr "已激活\t"
+
+#~ msgid "Deactivate"
+#~ msgstr "停用"
+
+#~ msgid "invalid"
+#~ msgstr "不可用"
+
+#~ msgid "Activate"
+#~ msgstr "启用"

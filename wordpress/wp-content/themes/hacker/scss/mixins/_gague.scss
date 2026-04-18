@@ -1,0 +1,34 @@
+// Gague
+@mixin make-gague($position: b, $distance: 5, $gague: "margin") {
+    @if $gague == "padding" {
+        $gague: "padding";
+    }
+    @if $position == l {
+        #{$gague}-left: #{$distance}px !important;
+    } @else if $position == t {
+        #{$gague}-top: #{$distance}px !important;
+    } @else if $position == r {
+        #{$gague}-right: #{$distance}px !important;
+    } @else if $position == b {
+        #{$gague}-bottom: #{$distance}px !important;
+    } @else if $position == lr {
+        #{$gague}-left: #{$distance}px !important;
+        #{$gague}-right: #{$distance}px !important;
+    } @else if $position == tb {
+        #{$gague}-top: #{$distance}px !important;
+        #{$gague}-bottom: #{$distance}px !important;
+    }
+}
+
+@mixin loop-gague($position: b, $step: 5, $range: 2, $gague: "margin") {
+    $prefix: "m";
+    @if $gague == "padding" {
+        $prefix: "p";
+    }
+    @for $i from 0 through $range {
+        $n: $i * $step;
+        .#{$prefix}#{$position}#{$n} {
+            @include make-gague($position, $i * $step, $gague);
+        }
+    }
+}

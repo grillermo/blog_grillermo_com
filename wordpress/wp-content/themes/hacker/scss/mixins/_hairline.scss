@@ -1,0 +1,109 @@
+// Retain responsive border
+@mixin hairline($position, $color) {
+
+    @if $position == top {
+        &:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            right: 0;
+            bottom: auto;
+            height: 1px;
+            background-color: $color;
+            display: block;
+            z-index: 15;
+            @include transform-origin(50% 0%);
+            html.pixel-ratio-2 & {
+                @include transform(scaleY(.5));
+            }
+            html.pixel-ratio-3 & {
+                @include transform(scaleY(.33));
+            }
+        }
+    } @else if $position == right {
+        &:after {
+            content: '';
+            position: absolute;
+            right: 0;
+            top: 0;
+            left: auto;
+            bottom: 0;
+            width: 1px;
+            background-color: $color;
+            display: block;
+            z-index: 15;
+            @include transform-origin(100% 50%);
+            html.pixel-ratio-2 & {
+                @include transform(scaleX(.5));
+            }
+            html.pixel-ratio-3 & {
+                @include transform(scaleX(.33));
+            }
+        }
+    } @else if $position == bottom {
+        &:after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 0;
+            right: 0;
+            top: auto;
+            height: 1px;
+            background-color: $color;
+            display: block;
+            z-index: 15;
+            @include transform-origin(50% 100%);
+            html.pixel-ratio-2 & {
+                @include transform(scaleY(.5));
+            }
+            html.pixel-ratio-3 & {
+                @include transform(scaleY(.33));
+            }
+        }
+    } @else if $position == left {
+        &:before {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            bottom: 0;
+            right: auto;
+            width: 1px;
+            background-color: $color;
+            display: block;
+            z-index: 15;
+            @include transform-origin(0% 50%);
+            html.pixel-ratio-2 & {
+                @include transform(scaleX(.5));
+            }
+            html.pixel-ratio-3 & {
+                @include transform(scaleX(.33));
+            }
+        }
+    }
+
+}
+@mixin hairline-color($position, $color) {
+    @if $position == right or $position == bottom {
+        &:after {
+            background-color: $color;
+        }
+    } @else if $position == top or $position == left {
+        &:before {
+           background-color: $color;
+        }
+    }
+}
+@mixin hairline-remove($position) {
+    @if $position == right or $position == bottom {
+        &:after {
+            display: none;
+        }
+    } @else if $position == top or $position == left {
+        &:before {
+            display: none;
+        }
+    }
+}
+

@@ -1,0 +1,280 @@
+/*----------------------------------------------------------------------*/
+/* #Base
+/*----------------------------------------------------------------------*/
+html {
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+    @media (max-width: 1600px) {
+        font-size: 14px;
+    }
+}
+
+* {
+    outline: none;
+    box-sizing: border-box;
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+    &:before, &:after {
+        box-sizing: border-box;
+    }
+}
+
+::selection {
+    color: #fff;
+    background-color: mix(white, $primary-color, 45%);
+}
+
+body {
+    background-color: $body-bg;
+    font-family: "Open Sans", "Lato", "Helvetica Neue", Helvetica, "Microsoft YaHei","Hiragino Sans GB", "Hiragino Sans GB W3", serif;
+    color: $text-base;
+    font-size: 14px;
+    line-height: 1.8;
+    word-wrap: break-word;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* ##Heading
+---------------------------------*/
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    margin: 0 0 1rem 0;
+    font-weight: bolder;
+    font-size: 100%;
+    line-height: 1.2;
+    font-family: "Open Sans", "Lato", "Helvetica Neue", "Arial", serif;
+}
+
+h1 {
+    font-size: 1.6em;
+}
+
+h2 {
+    font-size: 1.25em;
+}
+
+h3 {
+    font-size: 1.15em;
+}
+
+h4 {
+    font-size: 1.1em;
+}
+
+h5 {
+    font-size: 1em;
+}
+
+h6 {
+    font-size: 1em;
+}
+
+/* ##Paragraph
+---------------------------------*/
+p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+
+
+/* ##List
+---------------------------------*/
+ul,
+ol {
+    padding-left: 2em;
+}
+
+ul ul,
+ul ol,
+ol ol,
+ol ul {
+    margin: .5em 0 1em 0;
+}
+
+dt {
+    font-weight: bolder;
+    & + dd {
+        margin-top: .5em;
+    }
+}
+dd {
+    margin-left: 0;
+    & + dt {
+        margin-top: 1em;
+    }
+}
+
+hr {
+    display: block;
+    padding: 0;
+    border: 0;
+    height: 0;
+    border-top: 1px solid $border-base;
+    -moz-box-sizing: content-box; /* 1 */
+    box-sizing: content-box; /* 1 */
+}
+
+/* ##Table
+---------------------------------*/
+table {
+    max-width: 100%;
+    width: 100%;
+    margin-bottom: 1rem;
+
+    caption {
+        padding: 5px;
+        color: #333;
+        background-color: #e5e5e5;
+    }
+    th,
+    td {
+        text-align: left;
+        padding: .6em;
+        vertical-align: top;
+        border-top: 1px solid #e5e5e5;
+    }
+
+    thead th {
+        vertical-align: bottom;
+        border-bottom: 1px solid #e5e5e5;
+    }
+
+    tbody + tbody {
+        border-top: 2px solid #e5e5e5;
+    }
+
+    .table {
+        background-color: #fff;
+    }
+}
+
+.table-bordered {
+    border: 1px solid #e5e5e5;
+}
+
+.table-striped {
+    tbody tr:nth-of-type(odd) {
+        background-color: #f2f2f2;
+    }
+}
+
+/* ##Misc
+---------------------------------*/
+img {
+    vertical-align: bottom;
+}
+
+figure {
+    margin: 0;
+}
+
+textarea {
+    vertical-align: top;
+    resize: vertical;
+}
+
+a {
+    color: $link-color;
+    text-decoration: none;
+    
+    &[href="#"],
+    &.is-disabled {
+        color: #999;
+    }
+
+    &:hover {
+        color: darken($link-color, 10%);
+    }
+
+}
+
+em {
+    font-style: normal;
+}
+
+strong {
+    font-weight: bold;
+}
+
+code,
+pre {
+    font-size: .9em;
+    line-height: 1.5;
+    background-color: #F3F2ED; //#f7f7f9;
+}
+
+pre {
+    border-radius: 3px;
+}
+
+code {
+    padding: 2px 4px;
+    margin-left: 2px;
+    margin-right: 2px;
+    color: #c7254e;
+    white-space: nowrap;
+    border-radius: 0;
+}
+
+pre {
+    padding: 1rem;
+    margin: 1rem 0;
+}
+
+ins,
+mark {
+    background: #ffa;
+    color: #333;
+}
+
+q {
+
+}
+
+abbr,
+dfn {
+    font-style: normal;
+    border-bottom: 1px dotted;
+}
+
+small {
+    font-size: 80%;
+}
+
+address {
+    font-style: normal;
+}
+
+blockquote {
+    margin: 2rem 1rem;
+    padding-left: 15px;
+    line-height: 1.4;
+    border-left: 4px solid $border-base;
+    p {
+        margin: 0 0 .7em 0;
+    }
+    small,
+    cite {
+        display: block;
+        font-size: 80%;
+        color: $text-help;
+        margin-top: .5em;
+    }
+    cite {
+        &:before {
+            content: '- ';
+        }
+    }
+    p:last-of-type {
+        margin-bottom: 0;
+    }
+}
+
+iframe {
+    border: 0;
+}

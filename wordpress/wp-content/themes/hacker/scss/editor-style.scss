@@ -1,0 +1,17 @@
+// globals
+@import 'vars';
+@import 'mixins';
+
+// Core
+@import 'normalize';
+@import 'base';
+@import 'content';
+@import 'utils';
+@import 'wp';
+
+body#tinymce {
+    max-width: 790px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px 20px !important;
+}

@@ -1,0 +1,168 @@
+/*----------------------------------------------------------------------*/
+/* #Comments
+/*----------------------------------------------------------------------*/
+.Discussion {
+    @include e(header) {
+        position: relative;
+        text-align: center;
+        overflow: hidden;
+        margin-bottom: 2rem;
+    }
+    @include e(heading) {
+        position: relative;
+        display: inline-block;
+        font-size: 24px;
+        &:before {
+            content: '';
+            width: 40px;
+            height: 2px;
+            background-color: $border-base;
+            position: absolute;
+            top: 50%;
+            margin-right: 2rem;
+            right: 100%;
+            margin-top: -1px;
+        }
+        &:after {
+            content: '';
+            width: 40px;
+            height: 2px;
+            background-color: $border-base;
+            position: absolute;
+            top: 50%;
+            left: 100%;
+            margin-left: 2rem;
+            margin-top: -1px;
+        }
+    }
+}
+
+.CommentList {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    .children {
+        padding-left: 0;
+        margin: 0 0 0 58px;
+    }
+}
+
+.Comment {
+    padding-top: 0;
+    padding-bottom: 2rem;
+    font-size: 14px;
+    line-height: 1.4;
+    @include flexbox;
+    @include align-items(flex-start);
+    @include e(media) {
+        width: 48px;
+        height: 48px;
+        background-color: $border-base;
+        border-radius: 24px;
+        margin-right: 10px;
+        overflow: hidden;
+        img {
+            width: 48px;
+            height: auto;
+        }
+    }
+
+    @include e(body) {
+        position: relative;
+        flex: 1;
+        padding-bottom: 1rem;
+        border-bottom: 1px solid $border-base;
+        p {
+            margin: 0 0 1rem;
+        }
+        img {
+            max-width: 100%;
+        }
+    }
+        @include e(heading) {
+            height: 48px;
+            margin-bottom: 0.5rem;
+            @include clearfix;
+        }
+            @include e(meta) {
+                float: left;
+            }
+                @include e(username) {
+                    font-size: 16px;
+                    color: $text-base;
+                }
+                @include e(date) {
+                    font-size:  12px;
+                    color: $text-help;
+                }
+
+            @include e(actions) {
+                float: right;
+            }
+                @include e(reply) {
+                    
+                }
+
+    + .comment-respond {
+        margin-left: 58px;
+    }
+}
+
+/* ##Comment Form
+---------------------------------*/
+.comment-respond {
+    .comment-reply-title {
+        display: none;
+    }
+}
+.comment-form {
+    line-height: 1.4;
+    font-size: 14px;
+    .comment-notes,
+    .logged-in-as {
+        color: $text-help;
+        margin: 0.625rem 0;
+    }
+
+    &__author,
+    &__email,
+    &__url, {
+        float: left;
+        width: 33.333333%;
+        margin-bottom: 1.25rem;
+        input {
+            border-width: 0 1px 0 0;
+            border-style: solid;
+            border-color: $border-light;
+            width: 100%;
+            box-shadow: none;
+            padding: 8px 10px;
+            line-height: 20px;
+            height: 36px;
+            background-color: #f5f5f5;
+        }
+    }
+
+    &__url {
+        input {
+            border: 0;
+        }
+    }
+
+    &__comment {
+        textarea {
+            width: 100%;
+            border: 0;
+            box-shadow: none;
+            padding: 0.9375rem;
+            background-color: #f5f5f5;
+            margin-bottom: 1.25rem;
+        }
+    }
+
+    &__submit {
+        text-align: right;
+    }
+}
+
+

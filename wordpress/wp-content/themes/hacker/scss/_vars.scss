@@ -1,0 +1,27 @@
+$gray-base:                         #212121;
+$gray-darkest:                      #424242;
+$gray-darker:                       #616161;
+$gray-dark:                         #757575;
+$gray:                              #9e9e9e;
+$gray-light:                        #bdbdbd;
+$gray-lighter:                      #e0e0e0;
+$gray-lightest:                     #fafafa;
+
+$site-width:                        73.125rem; //1170px
+$content-width:                     48.125rem;  //770px
+$body-bg:                           #fafafa;
+
+$primary-color:                     #F03838;
+$link-color:                        $primary-color;
+$border-base:                       $gray-lighter;
+$border-light:                      #e8e8e8;
+
+$text-base:                         $gray-darkest;
+$text-dark:                         $gray-base;
+$text-light:                        $gray-darker;
+$text-help:                         $gray;
+
+$label-color:                       $primary-color;
+$nav-menu-color:                    $primary-color;
+
+$break-points:                      14px;

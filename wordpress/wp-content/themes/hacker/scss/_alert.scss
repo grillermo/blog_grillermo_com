@@ -1,0 +1,17 @@
+/*----------------------------------------------------------------------*/
+/* #Alert
+/*----------------------------------------------------------------------*/
+.Alert {
+    position: relative;
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+    background-color: #e0e0e0;
+    color: #616161;
+    padding: 1rem;
+    
+    @include m(warning) {
+        color: #6b3612;
+        background-color: #ffedc7;
+    }
+}

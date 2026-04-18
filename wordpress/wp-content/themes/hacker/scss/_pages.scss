@@ -1,0 +1,54 @@
+/*----------------------------------------------------------------------*/
+/* #Pages
+/*----------------------------------------------------------------------*/
+/* ##Archive
+---------------------------------*/
+.Archive__header {
+    text-align: center;
+    margin-top: 4rem;
+    .taxonomy-description {
+        font-size: 1em;
+        color: $text-help;
+        margin: 0;
+        p {
+            margin: 0;
+        }
+    }
+}
+.Archive__title {
+    font-size: 1.8em;
+    line-height: 1;
+    &:before {
+        content: '#';
+    }
+}
+
+/* ##404
+---------------------------------*/
+.page-404 {
+    position: relative;
+    text-align: center;
+    margin-top: 4rem;
+    .page-404-title {
+        font-size: 8rem;
+        line-height: 1;
+        font-weight: normal;
+        color: $text-light;
+        margin: 0;
+        font-family: 'open sans', Arial, sans-serif;
+    }
+    .page-404-divide {
+        margin-top: -4px;
+        margin-bottom: 24px;
+        span {
+            display: inline-block;
+            width: 110px;
+            height: 1px;
+            background-color: $border-base;
+        }
+    }
+    .page-404-desc {
+        font-size: 1.8rem;
+        color: $text-help;
+    }
+}

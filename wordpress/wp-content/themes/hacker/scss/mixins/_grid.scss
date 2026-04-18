@@ -1,0 +1,32 @@
+// Grid
+
+@mixin make-col( $n, $columns: 12, $gutter: 10px) {
+    $cols: $columns / $n;
+    
+    @if $gutter > 0 {
+        .col-#{$n} {
+            // flex-basis
+            width: -webkit-calc( ( 100% - #{ $gutter * ($cols - 1) } ) / #{$cols} );
+            width: calc( ( 100% - #{ $gutter * ($cols - 1) } ) / #{$cols} );
+        }
+        .col-offset-#{$n} {
+            margin-left: -webkit-calc( ( 100% - #{ $gutter * ($cols - 1) } ) / #{$cols} + #{$gutter} );
+            margin-left: calc( ( 100% - #{ $gutter * ($cols - 1) } ) / #{$cols} + #{$gutter} );
+        }
+    } @else {
+        .col-#{$n} {
+            width: percentage($n / $columns);
+        }
+        .col-offset-#{$n} {
+            margin-left: percentage($n / $columns);
+        }
+    }
+}
+
+@mixin loop-cols($columns: 12, $gutter: 10px) {
+
+    @for $i from 1 through $columns {
+        @include make-col($i, $columns, $gutter);
+    }
+    
+}

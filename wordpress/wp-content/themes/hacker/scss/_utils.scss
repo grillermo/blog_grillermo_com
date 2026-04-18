@@ -1,0 +1,134 @@
+/*----------------------------------------------------------------------*/
+/* #Utilities
+/*----------------------------------------------------------------------*/
+.pull-left {
+    float: left;
+}
+.pull-right {
+    float: right;
+}
+.post-tags {
+    a {
+        position: relative;
+        &:before {
+            content: '#';
+        }
+        &:not(:last-of-type):after {
+            content: ', ';
+            padding-right: 5px;
+        }
+    }
+}
+
+/* ##Icons
+---------------------------------*/
+.icon-meta {
+    @include flexbox;
+}
+.icon-bookmark {
+    display: inline-block;
+    width: 13px;
+    height: 19px;
+    background: url(../images/icon-bookmark-fill.svg) center top no-repeat;
+}
+.icon-comments {
+    display: inline-block;
+    width: 18px;
+    height: 19px;
+    background: url(../images/icon-bubble.svg) center top no-repeat;
+    background-size: 18px 18px;
+}
+.icon-heart {
+    display: inline-block;
+    width: 19px;
+    height: 17px;
+    background: url(../images/icon-heart.svg) center center no-repeat;
+    background-size: 19px 17px;
+}
+.icon-tags {
+    display: inline-block;
+    width: 19px;
+    height: 16px;
+    background: url(../images/icon-tags.svg) center center no-repeat;
+    background-size: 19px 16px;
+}
+
+
+.tags-list {
+    text-align: center;
+    a {
+        display: inline-block;
+        color: $text-help;
+        padding: 5px;
+        margin: 5px 10px;
+        &:before {
+            content: '#';
+        }
+        &:hover {
+            color: darken($link-color, 10%);
+        }
+    }
+}
+
+
+
+.video-embed {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%; /* 16:9 */
+    iframe,
+    embed {
+        position: absolute;
+        top: 0;
+        left: 0;
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
+
+.featured-media {
+    margin-bottom: 1.5rem;
+    img {
+        width: 100%;
+        height: auto;
+    }
+}
+
+input[type="submit"],
+button,
+.btn {
+    position: relative;
+    display: inline-block;
+    color: #fff;
+    background-color: $primary-color;
+    border-radius: 0;
+    margin: 0;
+    padding: 1px 20px 0 20px;
+    min-width: 52px;
+    border: 0;
+    height: 32px;
+    font-size: 16px;
+    line-height: 31px;
+    vertical-align: middle;
+    text-align: center;
+    cursor: pointer;
+    &:active {
+        background-color: darken($primary-color, 5%);
+    }
+    &:hover {
+        background-color: lighten($primary-color, 5%);
+    }
+    &[disabled],
+    &.is-disabled {
+        cursor: not-allowed;
+        background-color: lighten($primary-color, 10%);
+    }
+    &.btn-lg {
+        height: 36px;
+        font-size: 18px;
+        line-height: 35px;
+        padding: 1px 20px 0 20px;
+        min-width: 52px;
+    }
+}

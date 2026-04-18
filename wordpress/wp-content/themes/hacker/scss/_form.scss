@@ -1,0 +1,136 @@
+/*----------------------------------------------------------------------*/
+/* #Form
+/*----------------------------------------------------------------------*/
+.form-group {
+    margin-bottom: 1rem;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    line-height: 20px;
+    height: 32px;
+    padding: 5px 10px;
+    margin: 0;
+    border-radius: 0;
+    font-size: 14px;
+    border: 1px solid $border-base;
+    outline: none;
+    box-shadow: none;
+    background-image: none;
+    &:focus {
+        outline: none;
+    }
+}
+
+.help-block {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    color: $text-help;
+}
+.form-control-static {
+    height: 32px;
+    line-height: 20px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+}
+
+.radio,
+.checkbox {
+    position: relative;
+    display: block;
+    margin-bottom: 1rem;
+    label {
+        padding-left: 1.25rem;
+        margin-bottom: 0;
+        font-weight: normal;
+        cursor: pointer;
+        input:only-child {
+            position: static;
+        }
+    }
+}
+
+.radio input[type="radio"],
+.radio-inline input[type="radio"],
+.checkbox input[type="checkbox"],
+.checkbox-inline input[type="checkbox"] {
+    position: absolute;
+    margin-top: .25rem;
+    margin-left: -1.25rem;
+}
+
+.radio + .radio,
+.checkbox + .checkbox {
+    margin-top: -.25rem;
+}
+
+.radio-inline,
+.checkbox-inline {
+    position: relative;
+    display: inline-block;
+    padding-left: 1.25rem;
+    margin-bottom: 0;
+    font-weight: normal;
+    vertical-align: middle;
+    cursor: pointer;
+}
+
+.radio-inline + .radio-inline,
+.checkbox-inline + .checkbox-inline {
+    margin-top: 0;
+    margin-left: .75rem;
+}
+
+.radio,
+.radio-inline,
+.checkbox,
+.checkbox-inline {
+    &.disabled,
+    fieldset[disabled] & {
+        label {
+            cursor: not-allowed;
+        }
+    }
+}
+/* ##Inline Form
+---------------------------------*/
+.form-inline {
+    .form-group {
+        display: inline-block;
+        vertical-align: middle;
+        margin-bottom: 0;
+    }
+    .form-control {
+        display: inline-block;
+        width: auto;
+        vertical-align: middle;
+    }
+    .form-control-static {
+        display: inline-block;
+    }
+    .control-label {
+        margin-bottom: 0;
+        vertical-align: middle;
+    }
+    .radio,
+    .checkbox {
+        display: inline-block;
+        margin-top: 0;
+        margin-bottom: 0;
+        vertical-align: middle;
+        label {
+            padding-left: 0;
+        }
+    }
+    .radio input[type="radio"],
+    .checkbox input[type="checkbox"] {
+        position: relative;
+        margin-left: 0;
+    }
+}
+
+
+
+
+

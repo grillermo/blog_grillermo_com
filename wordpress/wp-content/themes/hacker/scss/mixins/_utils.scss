@@ -1,0 +1,106 @@
+@mixin clearfix() {
+    &:before,
+    &:after {
+        content: " ";
+        display: table;
+    }
+    &:after {
+        clear: both;
+    }
+}
+
+@mixin oneline() {
+    word-wrap: normal;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    overflow: hidden;
+}
+@mixin scrollable() {
+    position: relative;
+    overflow: auto;
+    -webkit-overflow-scrolling: touch;
+}
+
+@mixin remove-select() {
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+}
+
+@mixin fullbg() {
+    background-position: center center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+@mixin animation($name, $duration, $delay, $timing: ease-out, $fill-mode: forwards) {
+    animation-name: $name;
+    animation-duration: $duration;
+    animation-timing-function: $timing;
+    animation-fill-mode: $fill-mode;
+    backface-visibility: hidden;
+    animation-delay: $delay;
+}
+
+@mixin transition($d) {
+    -webkit-transition-duration: $d;
+    transition-duration: $d;
+}
+
+@mixin transform($t) {
+    -webkit-transform: $t;
+    transform: $t;
+}
+@mixin transform-origin($to) {
+    -webkit-transform-origin: $to;
+    transform-origin: $to;
+}
+@mixin translate3d($x:0, $y:0, $z:0) {
+    -webkit-transform: translate3d($x,$y,$z);
+    transform: translate3d($x,$y,$z);
+}
+
+@mixin linear-gradient($deg, $start-color, $end-color) {
+    background: $start-color;
+    background: -webkit-linear-gradient($deg, $start-color 0, $end-color, 90%);
+    background: -moz-linear-gradient($deg, $start-color 0, $end-color, 90%);
+    background: -ms-linear-gradient($deg, $start-color 0, $end-color, 90%);
+    background: linear-gradient($deg, $start-color 0, $end-color 90%);
+}
+
+@mixin svg-bg($color, $svg) {
+    -webkit-mask: url($svg) no-repeat 100% 100%;
+    mask: url($svg) no-repeat 100% 100%;
+    -webkit-mask-size: contain;
+    mask-size: contain;
+    background-color: $color;
+}
+
+@mixin text-shadow() {
+    text-shadow: -1px -1px rgba(0,0,0,.05);
+}
+
+@mixin text-truncate() {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    word-wrap: normal; /* for IE */
+    white-space: nowrap;
+}
+
+@mixin text-break() {
+    -webkit-hyphens: auto;
+       -moz-hyphens: auto;
+        -ms-hyphens: auto;
+            hyphens: auto;
+    word-wrap: break-word;
+    white-space: normal;
+}
+
+@mixin text-nowrap() {
+    white-space: nowrap;
+}
+
+@mixin center-block() {
+    display: block;
+    margin: 0 auto;
+}
