@@ -1,0 +1,7 @@
+---
+title: "Homus universalis"
+pubDate: 2011-03-20T09:08:00.000Z
+wpId: 604
+---
+
+Creo que he escrito este post docenas de veces en mi cabeza: imagina un hombre universal con el humor autoreferencial inglés y su doctrina de respeto al protocolo, con la precisión cortante y poderosa del alemán trabajando, la alegría por la vida del italiano, el amor a las ideas y pasiones humanas del francés, la hacendosidad del chino, el sentido del honor japonés, la mágica mística del hungaro, el fervor religioso del musulman enfocado en asuntos humanos, la resistencia eterea del islandéz y el valor a la comunidad del escocés, la bohemia española para los ratos pesados, la soltura del cuerpo que se vive en el pacifico cálido, la recompensadora nostalgia de las zonas de nieve perene en el norte de Europa, la música en el corazón del africano, el romance caribeño ardiendo en la venas, la inquebrantable autoconfianza del norteamericano, el entendimiento del valor de la paz canadiense, las libertades con la vida del latino, el ingenio del Mexicano; sus deseos de un futúro mejor, ese es el hombre que espero llegar a ser, no necesito un libro escrito por dios que me muestre el camino, el hombre ya es suficiente inspiración para si mismo si tan solo voltea su mirada fuera de su pequeño mundo para ver el enorme mundo que lo rodea.

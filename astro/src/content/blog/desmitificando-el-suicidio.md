@@ -1,0 +1,8 @@
+---
+title: "Desmitificando el suicidio"
+pubDate: 2008-04-11T10:23:00.000Z
+wpId: 771
+categories: ["pensamiento-libre"]
+---
+
+Contemplar el suicidio no tiene como requisito una vida desastroza o una depresión profunda, puede ser un lindo acto de autosatisfacción ególatra, como un "que tal si" placentero para la mente, que en su delirio te muestra imagenes de gente diciendo cuanto ha perdido el mundo y de tus familiares esculcando tus cosas y encontrando tu genio escondido en algunas viejas notas que después publicarán para beneficio de la fundación que llevará tu nombre.<br /><br />Leyendo sobre la anorexia y la bulimia me entero de que en el grado mas avanzado y último de ambas chistosadas las niñas(mayoría estadística) se suicidan como dios manda, preparan todo de antemano y no dejan nada al azar para que ni ellas mismas puedan arrepentirse, este suicidio es de verdad la determinación de dejar de preocuparse tal como cuando te lavas los dientes intentando salvar al mundo de las caries.<br />Su metodo de contemplar el suicidio es el mas hermoso, llevado hasta un arte que dura años y culmina majestuosamente y para horror del mundo con un opus que haría feliz a los adoradores de la catrina y sus bellos huesos blanqueados entre cervilletas de colores.<br /><br />Intenta contemplar el suicidio como mero ejercicio imaginativo, en tu perfecta vida o en un cuchitril de pasados sucios da lo mismo, la regla prevalece, a la gente le importas la mitad de lo que crees que le importas, asi que hazlo mejor por curiosidad religiosa ya seas tu mismo tu dios o tu cuerpo quebrado, tu, tu, tu, tu.<br /><br />Así se ve que lindo suena contemplar el suicidio aunque sea por una tonteria como tu teléfono movil muerto o los pobres niños en africa, nobody gives a shit.

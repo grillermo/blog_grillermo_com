@@ -1,0 +1,7 @@
+---
+title: "S G"
+pubDate: 2013-11-02T10:27:00.000Z
+wpId: 356
+---
+
+Floreces en la desgracia, te crecen petalos marchitos y las raices se encanjan en la tierra. <br /><div>Aborreces el agua limpia de lluvia de verano, prefieres una tormenta sobre ti, para regocijarte cuando crujen tus huesos.</div><div>Solo entiendes de desgracias y desprecios, de aborrecer la facilidad del chocolate, de envenenarte por placer, de no morir nunca, de envejecer con fuerza.&nbsp;</div><div>Se te ha dado fortaleza para resistir esto, el don de las palomas en la ciudad, con tu pecho brillante de colores, volando a lugares alto, alejados de los demás, sola con los tuyos.&nbsp;</div><div>Tristeza y cinismo, inalcanzable para al brillo ajeno.&nbsp;</div><div>Irresistible desastre, encantadora letanía, refugiada de arcoiris y azucar aceptando solo amor de vicios y reticencias.&nbsp;</div><div>Lejos muy lejos, viviendo entre nosotros y con el alma volando en tu espalda como paracaídas que se niega a caer, adorando el delgado hilo que la mantiene unida a ti hecha girones con dignidad.&nbsp;</div><div>Esperas a un hermano de fantasías oscuras a quien amar.&nbsp;</div><div>Lejos irremediablemente lejos.&nbsp;</div>

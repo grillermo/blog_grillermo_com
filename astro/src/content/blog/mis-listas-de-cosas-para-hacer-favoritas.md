@@ -1,0 +1,8 @@
+---
+title: "Mis listas de cosas para hacer favoritas"
+pubDate: 2007-07-05T08:32:00.000Z
+wpId: 880
+categories: ["funny"]
+---
+
+<span style="color: rgb(204, 0, 0);font-size:180%;" >**Advertencia, extremos niveles de idiotes presentes**<br /><br /><span style="font-size:100%;"><span style="color: rgb(0, 0, 0);">Estas listas me mantuvieron riendo por horas, las condiciones para entrar mi conteo, es que sean sobre un mismo tema que sean largas y muy muy estupidas. <span style="color: rgb(0, 0, 153);">En ingles todas.</span><br /><a href="http://pizza.funnypart.com/"><br />101 Cosas para hacer mientras ordenas una pizza.</a><br /><br /><a href="http://www.daft.com/~torin/skippy.html">213 Cosas que no debo hacer en el ejercito de los estados unidos</a><br /><br /><a href="http://www.comedycorner.org/50.html">101 Cosas para frikear(volverlo loco) a tu roomy(compañero de cuarto)</a><br /><br /><a href="http://bertc.com/elevator.htm">50 Cosas para hacer en el elevador</a><br /><br /><a href="http://www.joketribe.com/95/November/MallFun.php">50 Cosas para divertirte en un Mall(centro comercial)</a><br /><br /><a href="http://www.lifeisajoke.com/miscellaneous40_html.htm">50 Cosas que puedes hacer para volver loco a un ejecutivo de Telemercadeo</a><br /><br /><a href="http://wilk4.com/humor/humorm19.htm">43 Cosas para mantenerte cuerdo</a><br /><br /><a href="http://moronland.net/moronia/moron/1148/">35 cosas divertidas para hacer mientras manejas</a><br /></span></span></span>

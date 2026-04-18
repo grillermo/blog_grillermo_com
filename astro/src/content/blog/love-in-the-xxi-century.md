@@ -1,0 +1,7 @@
+---
+title: "Love in the XXI century"
+pubDate: 2015-04-12T23:03:00.000Z
+wpId: 129
+---
+
+Oh we love oh so much love and the heart ache of the unrepentant faithful heart<br />Oh it fills the void of god, to believe in something greater than our selves,<br />something we can't deny that keeps coming back,<br />but oh how we failed,<br />how the force of that vaccum shining with a fake light blinds us to the reality of our emptyness<br />how a struck of real fulfillment keeps it alive giving no credit where credit is due<br /><br />we love oh so much the lie,<br />the greater connection,<br />the immutability of our desires mistaken for predestination<br />just pasting a label with a random name on top of air<br />covering our inner storm, holding it back<br />painfuly stretching our insides<br />and deligthfuly<br />as musles, as igneous balloons<br />ready to pop at the slighest touch of reality<br />flimsy and delicate dreamy vapours joyfuly growing in isolation<br />until the test of a request breaks it<br />until the shock of the releases deflates it<br />leaving a joyless corpse<br />the tasteless blow of the nothingness that really is<br />with its label burnt<br />and its owner separated as galaxies from each other<br />impossibly long<br />with one living well beneath the inside of the atom<br />and the other on the edge of the cosmos<br />unreachable, forever<br />eternally disconnected<br />as real as fleeting thoughts<br />fucked up beyond repair<br />with no joint but these empty words<br />deceit, charades, mask and disappearing flare

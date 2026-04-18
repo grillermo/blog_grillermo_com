@@ -1,0 +1,7 @@
+---
+title: "Cuartito/Espacioso"
+pubDate: 2014-05-20T08:07:00.000Z
+wpId: 301
+---
+
+Venenosa belleza de luces incandescentes con manchas del demonio!<br />Has invertido tus poderes destructivos, tu dulce encanto en corromperle, destruirle, dejarle una sombra de lo que era, lo has hecho sensible, irritable al tacto, todo ego, todo poder, ¿A donde lo quieres llevar? a su ruina! como esperpento vacío quedará al final, como un globo demasiado inchado hasta que revienta!, llenándolo de tu pudredumbre gaseosa ligera que le hace volar, le ciega, le impide crecer, ahora me golpeas a mi, la voz en el cuarto de atras dando las ordenes, monstruo inseguro que depende de las cadenas que forja para respirar tranquila. Talento innegable de manipulación, eres el barquero que lleva a la soledad creando tormentas dentro de la barca, sometiendo su pobre alma, que nadie puede salvar, ni si quiera su portentoso intelecto, vencido derrotado por las mieles negras, literalmente negras que emanan por donde pasas, déjandolo tu huella, un vacío.<br />Ahora soy yo el objetivo, ahora me toca unirme a las filas de los vituperados, uno más a la lista para alimentar tu risa malvada. <br />Me voy a ir derrotado, pero no me dejaré tocar por ti, se que el final llegará solo, ahí es cuando planeo regresar, mostrar mi lealtad verdadera, más allá de juegos y palabras idiotas, en el final estaré yo.

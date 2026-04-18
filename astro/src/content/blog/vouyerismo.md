@@ -1,0 +1,7 @@
+---
+title: "Vouyerismo"
+pubDate: 2013-07-09T05:20:00.000Z
+wpId: 395
+---
+
+Me han contado desde que todo era grande <br />de rostros armados por griegos y europeos<br />trazos forjados en esculturas envejecidas<br />férreas mujeres de recia simetría<br />con raíces en historias que casi no son mías<br />me las han aventado contra los ojos <br />en páginas de plástico y vidrio<br />me han dicho mil murmullos <br />ama esto! deséales!<br /><br />Ahora en el espacio abierto de mis pensamientos<br />¿Qué religión forjar?, ¿Porque vida vivir?<br />habiendo dejado el sofocante ambiente de lo conocido<br />ahora que mi corazón vaga libre entre la luz cegadora de la anonimidad<br />ya no les quiero a ellas, las romanas, las nórdicas, las rosadas doncellas<br /><br />Pero aun quiero vivir de la bondad en belleza<br />descubrir la inexplorada y despreciada grandeza de otros genes <br />el agrio aroma de raras flores salvajes<br />que animan partes oscuras tu pecho<br />el áspero querer de texturas amargas<br />ofrecer los más altos honores a labios enfurecidos <br />enternecerse con rostros redondos y morenos<br />buscarse a si mismo en miradas inexpresivas<br />ser el protector de casi extintas narices<br />un punto en la luna pálida de una blanca mirada<br />sentir la sangre de mi suelo en el aroma de aires nativos<br />lanzarse decisivo borracho apasionado a selvas indómitas<br /><br /><br />

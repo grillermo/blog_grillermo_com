@@ -1,0 +1,8 @@
+---
+title: "A ustedes, los que deje atras"
+pubDate: 2010-10-18T07:29:00.000Z
+wpId: 630
+categories: ["aleagrafos"]
+---
+
+Tenía 5 años cuando pasó todo, mis papas saltaron del coche que se hundía con el agua, el pobrecito de mi solo alcanzé a meter la cabeza en la guantera lo que me regalo como 4 segundos mas de vida, en esos 4 segundos vi mi vida entera pasar por mis ojos pues resulta que mis  papas eran muy modernos y dentro de la guantera tenían una tele con videos familiares, un corto circuito hizo que el aparatejo corriera los videos en alta velocidad.<br />Al despertar, ya muerto, bajo el agua el aparato aun corría! seguía pasando video, pero ya no mas los videos familiares, sino las noticias locales anunciando el aparatoso accidente -<span style="color: rgb(51, 153, 153);">Estoy aquí, estoy aquí! saquenme, no me morí! todavía respiro!</span>. Pero era en vano, de mi boca ya no salían burbujitas de unos pulmones hablando, solo conseguía asustar a los peces que por algún don sobre natural veían muertos.<br /><br />Ahora tengo 22 años, osea tengo 17 años de muerto y mi vida es bastante normal, fui bien aceptado en la sociedad porque dicen que si uno muere joven luego le es mas fácil aprender los oficios propios de los fantasmas, aun sigue reproduciendo el video en ese auto, solo me ha hecho extrañar mas y mas a mis papas todos estos años, estoy tan deprimido, extraño tanto a mi familia,y ese maldito video no deja de reproducirse, solo quiero salir de este auto, aveces me desespero tanto que pienso en lo impensable, suicidio.

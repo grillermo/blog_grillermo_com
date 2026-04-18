@@ -1,0 +1,7 @@
+---
+title: "The Last Time He Saw Dorie"
+pubDate: 2008-07-10T11:05:00.000Z
+wpId: 752
+---
+
+<div xmlns='http://www.w3.org/1999/xhtml'>Reorganizando toda la música que jamas he tenido para mi nuevo ipod me acordé de esta joyita.<br />Es un asuntote seguirle la carrera a 900 artistas lol.<br /><div><object height='344' width='425'><param value='http://www.youtube.com/v/l1TNg4tIwB4&amp;hl=en&amp;fs=1' name='movie'> </param><param value='true' name='allowFullScreen'> </param><embed height='344' width='425' allowfullscreen='true' type='application/x-shockwave-flash' src='http://www.youtube.com/v/l1TNg4tIwB4&amp;hl=en&amp;fs=1'> </embed></object></div><br /><br />He's in love with tragedy, in love with tragedy<br />She was a wreck, but he loved her<br />She was a wreck, but so was he<br />And the last time he saw Dorie, he didn't know what to say but<br />"Thank you because you loved me, it's all on me<br />cause I didn't want to stay, I didn't want to stay..."<br /><br />Live, live, live because you love, love, love<br />And love will make you give, give, give<br />And give in when you break, break, break<br />But you just want to fix yourself<br />Just to break again...<br /><br />---------------------------<br />Ok me gustan los intros con grabaciones en reversa, pianitos agudos y melancolicos, voces suaves adormiladas, tengo que alejarme de eso.</div>

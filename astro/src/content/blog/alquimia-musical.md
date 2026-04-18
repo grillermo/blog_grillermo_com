@@ -1,0 +1,7 @@
+---
+title: "Alquimia musical"
+pubDate: 2014-12-20T00:16:00.000Z
+wpId: 174
+---
+
+<div style="clear: both; text-align: center;"><a href="http://2.bp.blogspot.com/-DplfC7swwcM/VJRrn3BlTZI/AAAAAAAABaE/yZQKZi0GlvI/s1600/photography-13cfa3da930f53b42ec204f0fd37fb23_h_large.jpg" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://2.bp.blogspot.com/-DplfC7swwcM/VJRrn3BlTZI/AAAAAAAABaE/yZQKZi0GlvI/s1600/photography-13cfa3da930f53b42ec204f0fd37fb23_h_large.jpg" height="320" width="309" /></a></div><br /><br />Hay una vieja trampa de sentires animados por música. La intensidad sigue el crecimiento de su arte acariciando nuestros oídos. Se despedaza con sus silencios dejando regados rastros sobre el corazón encajándose en él sin permiso, indistinguibles de lo que naturalmente crece ahí pero con un olor artificial que se desvanece cuando uno intenta atraparles. Es invisible cuando el objeto de sus deseos se manifiesta real frente a los ojos, le deja varado en un paraje estéril lleno de fantasmas que huyen cuando quiere hablarles temerosos de que su naturaleza simulada sea descubierta.<br />Es una vieja obra de teatro que solo puede verse en soledad y con los ojos cerrados.<br /><br />

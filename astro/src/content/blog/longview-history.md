@@ -1,0 +1,8 @@
+---
+title: "Longview - History"
+pubDate: 2009-09-12T11:11:00.000Z
+wpId: 705
+categories: ["musica", "indie", "gratis", "mp3", "free", "shoegaze", "download"]
+---
+
+No existe esta canción según los internets, ni wikipedia, ni itunes store, ni la página oficial, ni la banda, ni myspace, ni lyrics en google, ni torrentes, ni limewire, ni rapidshare, ni emule. Yo la encontré en un foro olvidado por la mano de dios y la ame con todo mi corazón, el mundo la merece.<br /><br /><a href="http://www.fileden.com/files/2009/9/12/2572449/History.mp3">Longview - History</a><br /><br />Unfinished Lyrics(it needz teh helpz)<br /><br />I can't pretend it's you<br />I won't pretend it's you<br />Coz' the feeling's wrong<br />Yeah the feeling's wrong<br /><br />Now my life is harsh<br />The kind i miss so much<br />Now the feeling's gone<br />Yeah the feeling's gone<br /><br />It's like love<br />Loss<br />Hope<br />Believe<br />Yeah it's like You<br />Me<br />History<br />History<br /><br />It just doesn't feel right<br />How does it stars feel like<br />Coz you've gone so far<br />And you've done so much<br /><br />Yeah i'ts like love<br />Life<br />Loss<br />Believe<br />Yeah its like you<br />Me<br />History<br />History<br /><br />So ???????<br />Why does my ????<br />So you now<br />Hope you dance with the weight of your own shell<br /><br />Yeah i'ts like love<br />Life<br />Loss<br />Believe<br />Yeah its like hope<br />Trust<br />Friends<br />?????<br /><br />Well it's like you<br />Me<br />History<br />History<br />(2x)<br /><br />So you lie was so clear<br />why does the ???? expose my fears<br />So you lie oh so clear

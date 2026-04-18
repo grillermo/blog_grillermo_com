@@ -1,0 +1,7 @@
+---
+title: "UNLEASH HELL BUAHAHAHA"
+pubDate: 2005-11-13T13:46:00.000Z
+wpId: 1006
+---
+
+La tercera guerra mundial ha comenzado señores, las armas, los encantos, el dinero,  el poder. Ellas el enemigo, estan dispuestas a tener el control en la relación, y eso significa vida de perro para el macho común, las pocas que quedan flexibles o son pubertas o desaparecen cada día gracias a pendejos que las emocionan para nada, pasandose al lado de las decepcionadas para siempre, el infierno del amor.<br />El arma principal sin embargo es la información, el que sepa manipular mas habilmente ganará, dios es horrible a lo que hemos llegado, las consecuencias finales de llevar a los extremos esta situación es la extinción por falta de reproducción jajaja, afortunadamente las compañias de condones nos ofrecen un esperanzador 3% de fallos en sus productos.<br />Pasado el efecto del cuerpo y sus hormonas, es una lucha de una mente contra la otra, simple y llanamente, lo demas son pantallas para no sentirse tan mal.<br />Esto es serio, es mejor estar informado que caminar por ahí con el corazón en las manos ofreciendolo como ganga.<br />"entregarse como si nunca te hubieran dañado?" jajajajaja mails pendejos irrealistas, el autor obviamente es masoquista. Si vivir es sentir dolor, has sentir vivos a los demas! esa es una actitud altruista =)

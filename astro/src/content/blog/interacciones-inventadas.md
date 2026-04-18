@@ -1,0 +1,7 @@
+---
+title: "Interacciones inventadas"
+pubDate: 2014-02-20T04:42:00.000Z
+wpId: 330
+---
+
+Caminando calle abajo con dos amigas, las tres super hermosas, las tres, en su cabeza, reinas del universo conocido, o al menos reinas de esa banqueta.<br />Justo antes de cruzarme con ellas, me dice la de en medio, una castaña con lentes enormes y labios hinchados:<br />-Oye tu, ¿Me darías un beso en este momento?<br />-Bajo ninguna circunstancia.<br />-Pero ¿Por qué? ¿No me ves? ¿Cuando una mujer como yo te volverá a ofrecer esto jamás en tu vida?<br />-Si te beso ahorita, tu te irás riendo con tus amigas y tendrás una curiosa historia chistosa que contar sobre como los muchachos son tan faciles, pero yo, yo te besaré como si siempre te hubiese amado, me entregaré completamente, para cuando todo acabe tendré un enorme vacío en el corazón un hueco que solo otro beso tuyo podría llenar un vacío que nadie más podría llenar, pues ciertamente nunca te volveré a besar. <br />-¿Y si te prometo que me volverás a besar lo harías?<br />-No, tampoco, si me volverás a besar, es que te volveré a ver, si te volveré a ver prefiero besarte en ese momento, ya que sepa si mi entrega valdrá la pena, si realmente te mereces formar parte de mis memorias. Si quieres que eso pase dame tu número de teléfono, salimos y después ambos sabremos si debemos besarnos o no. No, bajo ninguna circunstancia besaría a una mujer tan hermosa que acabo de conocer.<br /><br />

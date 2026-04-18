@@ -1,0 +1,7 @@
+---
+title: "XII"
+pubDate: 2012-04-28T10:41:00.000Z
+wpId: 523
+---
+
+Un gato nació en un anuncio de perdido pegado en un poste.<br />Su primer cliente fue una catarina que le puso todas las patas en la cara. El gato no fue muy fan de esto.<br />Después llegó un caza recompensas, cuya inspección cercana apenas le dió para suspirar decepcionado, este gato está demasiado vivo para estar perdido, pensó el caza recompensas.<br />Cuando una de 30 años consideró la bolita de pelos sobre su cabello, hubo chispas entre ojos y papel, le puso los dedos sobre el primer plano, creo que si sintió el ronroneo sobre las yemas de los dedos -habrá que cortar la cinta abrazándolo al poste. El viento le hace el favor de un miau al fluir en su espalda de papel, que musicaliza el trabajo que hace para no romper las fibras de celulosa, pero el papel no funciona así, es demasiado delgado, ya solo hay medio gato -volveré mas tarde con cinta para reparar felinos.<br />El gato se voltea sin remedio y con ayuda de una vieja lluvia ácida se imprime sobre el poste, se traspasa a la madera, ahora es un gato árbol.<br />Ella vuelve y llora, solo le queda mudarse a esa esquina, ponerle aceite todas las mañanas entre las grietas resecas y esperar la noche cuando la tensión eléctrica pone a ronronear a la criatura.

@@ -1,0 +1,7 @@
+---
+title: "segundo murcielago"
+pubDate: 2012-07-31T11:45:00.000Z
+wpId: 486
+---
+
+Despertar rodeado de nada, en el suelo frio, con un murciélago en decidiendo donde morderte ahora puede ser perturbador, cuando a mi me pasó veía todo rojo, me ardían los ojos y creo que el murcielago de hecho me estaba a punto de decir que mi comportamiento era hermoso, que tenía ganas de regresarme la sangre al cuello solo para poder verme caer de nuevo desmayado del dolor. Un hombre nunca se sintió tan fruta como yo en ese momento, no iba a aceptar eso. Escuchame bien hijo de la madre de belcebú, el humano, el Homo Sapiens aquí soy yo, Sapiens significa: mas listo que tu, asi que me perdonaras la rudeza pero aunque ya me haya deshecho de mi vida material, aparentemente por ninguna razón, aunque todo lo que tengo está en el piso -No está, estaba, le dije a unos amigos que vinieran a recoger todo. Ok no importa, no tengo ni madres. Exacto, no tienes nada, ni si quiera tienes sangre. No tengo sangre? No. Ok ok, eso explica mi piel blanca, la falta de frío y este antojo de mermelada de frambuesa. Si si, la mermelada es un síntoma común, no te preocupes.<br />¿Ahora soy un muerto-vivo sin sangre sin posesiones materiales y con diabetes en mi destino? No no no, no estás entendiendo bien a este murcielago mi querido humanito, la diabetes es para los vivos.

@@ -1,0 +1,7 @@
+---
+title: "Tú demasiadas veces tú"
+pubDate: 2014-03-10T21:54:00.000Z
+wpId: 326
+---
+
+¿No lo hemos intentando todos los poetas?<br />Que mi palabras de amor conquisten<br />que sean anclas para el barco de tu belleza<br />siempre peregrina, belleza de postal<br />deleitarlas para que se queden<br />para hacernos brillar por dentro<br />¿No lo intento yo ahora?<br />decir tu nombre, apuntar todas mis flores hacia tu rostro<br />todas las que he escrito, todas para ti<br />que las leas con la profunda convicción de poseerlas<br />de merecer cada una de ellas<br />para no ser un espectador más<br />para ser el artista que toca tu rostro como director a una orquesta<br /><br />Palabras sucias, con intención, egoístas<br />un dueño de museo cuya única exposición faltante eres Tú<br />irremediablemente quebrado de poesía<br />pobre vagabundo sin más capital que versos sin rima<br />puras monedas gastadas una y otra vez,<br />de marcas desvanecidas<br />cuya suavidad dura, metálica es insuficiente para pagar tu compañía<br /><br />No es amor sino frustración quien escribe<br />mi vieja compañera de cadenas muy cortas<br />la que me deja siempre manos abiertas arriba<br />buscando tocarte con las muñecas sangrando<br />grilletes de mi propio claustro<br /><br />

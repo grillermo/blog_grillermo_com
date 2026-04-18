@@ -1,0 +1,7 @@
+---
+title: "Setting fire to our insides for fun"
+pubDate: 2013-10-28T05:33:00.000Z
+wpId: 361
+---
+
+The inspiration, the eye's perspiration<br />the hole and insatisfaction, the dog-like need to fill it<br />happy thoughts are complete and do not care of anything other than physical show of its existence<br />despairs and frustrations and unfulfilled expectations<br />all cry for words<br />they need to be spewed in ink or pixels<br />its a drive, a fuel and a wind for lost broken ships<br />you don't build a fort with a happy heart<br />your needs for expression are greatly diminished on shiny days<br />borrowing in the sand, digging frantically to swet the pain<br />flying on a summer rainbown you will smile and nothing more will be said<br /><br />dwelling with bugs in the night you will write<br /><br />When a muse is dark and the word only flows when blood is shed<br />a writing career will need its share of sacrifices<br />seeking young <span>dameiseles' hearts to turn against you</span><br /><span>knowing how to destroy any care they might have for you</span><br /><span>this knowledge will be used against you</span><br /><span>in favor of poetry</span><br /><span>by your self destructive/creative self</span><br /><span>how to make them fall for you</span><br /><span>how to make you fall for them</span><br /><span>how to make them throw you off a cliff</span><br /><span>and in the air, write </span>

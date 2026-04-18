@@ -1,0 +1,7 @@
+---
+title: "Sobre la fragilidad de las fantasías de perfección humana"
+pubDate: 2014-12-07T11:55:00.000Z
+wpId: 187
+---
+
+El que se porta mal pierde, no puede disminuir su calidad nunca, cuando un no pecador lo hace recibe clemencia, un pase temporal para actuar así sin consecuencias, aunque su comportamiento es debidamente anotado. Cuando se ha abusado de ese pase, el comportamiento se vuelve intolerable, disminuyendo puntos en la tabla general, pierde suficientes puntos y ¡boom! ¡fuera!<br />No es posible construir algo permanente en números negativos, se está en constante deuda. En estas condiciones es imposible el sostenimiento de la estamina, esta se convierte en un recurso finito que hay que racionar conforme a tiempos previstos y huir cuando se acaba.<br />La única forma de evitar este horrible escenario, es el perdón, desafortunadamente este suele venir acompañado de la pérdida del respeto. Lo que es aun peor, porque sin respeto no hay balance, sin balance no hay estabilidad, sin estabilidad no es posible la felicidad duradera.<br />El error del que hablo es pues: el equivocarse.<br />A veces uno se encuentra enterrado en una montaña de errores, sin manera de moverse sin miedo a hacer estallar una mina. Esa no es manera de vivir compadre.<br />

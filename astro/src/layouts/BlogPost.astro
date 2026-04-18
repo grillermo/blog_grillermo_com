@@ -51,6 +51,25 @@ const { title, description, pubDate, updatedDate, heroImage, categories } = Astr
 			.last-updated-on {
 				font-style: italic;
 			}
+			.categories {
+				margin-top: 0.5em;
+				display: flex;
+				flex-wrap: wrap;
+				gap: 0.4em;
+				justify-content: center;
+			}
+			.category-tag {
+				font-size: 0.75em;
+				padding: 0.2em 0.6em;
+				border-radius: 4px;
+				background: rgb(var(--accent-light));
+				color: rgb(var(--accent-dark));
+				text-decoration: none;
+			}
+			.category-tag:hover {
+				background: rgb(var(--accent));
+				color: white;
+			}
 		</style>
 	</head>
 

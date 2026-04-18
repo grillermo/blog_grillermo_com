@@ -1,0 +1,7 @@
+---
+title: "Esto no es una palabra del diccionario?!"
+pubDate: 2005-07-18T09:00:00.000Z
+wpId: 1073
+---
+
+<span style="color: rgb(0, 0, 0); font-weight: bold;">La canción oficial de "El S!stema", es "Vegas" de New Found Glory, banda de punk melódico que escucho con la mayor parte del hemisferio izquierdo.</span><br /><br /><span style="color: rgb(0, 0, 0); font-weight: bold;">Letra porfavor</span><br /><div style="text-align: center;">It doesn't take much to keep holding someone's hand<br />You have to keep your eyes open as wide as you can<br />You never know what could come along...<br />Sometimes people think that they are so in love<br />When it's the first person that they have ever been with<br />I think it's so stupid<br />You have to keep your eyes open<br />You'll never know if she's right<br />It's so amazing how people can be held down<br />By just one person that doesn't even care what they think<br />I know it's so stupid<br />You have to keep your eyes open<br />You'll never know if she's right....<br /><div style="text-align: left;"><span style="font-weight: bold;">Música por favor<br /><iframe src="http://www.castpost.com/Lib/playm1.php?filename=Vegas%20-%20New%20Found%20Glory.mp3&amp;url=http://poryparaelmundo.castpost.com/" frameborder="0" height="40" scrolling="no" width="250"></iframe><br />Powered by <a href="http://www.blogger.com/%27http://www.castpost.com%27">Castpost</a><br /><br /><br />Hecho</span></div></div>

@@ -1,0 +1,7 @@
+---
+title: "Pinches sitios de descargas"
+pubDate: 2011-06-02T07:02:00.000Z
+wpId: 595
+---
+
+Cada vez son mas agresivos en los sitios de descarga como rapidshare y media fire, vean la última interfaz de descarga de rapidshare<br /><a href="http://dl.dropbox.com/u/1729028/rpidshare%20violencia.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 705px; height: 465px;" src="http://dl.dropbox.com/u/1729028/rpidshare%20violencia.jpg" alt="" border="0" /></a>"I want to wait" Pinche rapidshare lo que nos hace reconocer torturandonos, burlandose de nosotros ya que le picas esperas unos segundos y ya sale esto<br /><a href="http://dl.dropbox.com/u/1729028/rapidshare%20download.jpg"><img style="display:block; margin:0px auto 10px; text-align:center;cursor:pointer; cursor:hand;width: 705px; height: 465px;" src="http://dl.dropbox.com/u/1729028/rapidshare%20download.jpg" alt="" border="0" /></a><br />En el futuro y si nadie los detiene lo que vamos a ver es:<br /><img src="http://dl.dropbox.com/u/1729028/version5.jpg" /><br />Oh cuando vean que eso aun no nos convence de pagar el servicio premium<br /><img src="http://dl.dropbox.com/u/1729028/version3.jpg" /><br />Oh ya de plano<br /><img src="http://dl.dropbox.com/u/1729028/version4.jpg" /><br />Que la neta voy a picar gustoso

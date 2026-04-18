@@ -1,0 +1,7 @@
+---
+title: "Fuego en las puntas de los dedos"
+pubDate: 2014-02-18T11:43:00.000Z
+wpId: 331
+---
+
+Es que no puedo superarlo, lo que más trabajo me cuesta aceptar al dejar es que no importa como lo arruiné todo, lo importante es que está arruinado, me da un coraje.<br />Me dan dos corajes, y el internet no ayuda con su acceso ilimitado a su dulce dulce rostro, podría ver un programa de 24 horas sobre su rostro y ni si quiera le cambiaría en los comerciales para no perderme ni un segundo, rostrofilia, vouyerismo facial, mmm la raiz latina para rostro es... (después de una visita rápida a Google) .... cara, como en la frase: Lo que está al frente de una cabeza es la cara. Carafilia por la de la sonrisa más hermosa de la ciudad, dos de esas para llevar.<br />Vengo a este blog a vomitar lo cursi, porque yo tengo reputación de duro matón hijoe puta y tengo que mantener esa reputación, nadie puede saber que en secreto soy un romántico a la winnie de poh en un atardecer rosa abrazando a puerquito.<br />Esto es lo que pasa cuando dejas iTunes en random, como la música del pasado siempre es más que la de que estas oyendo hoy día, random suele escogerla, entonces te pones de forever alone. A disfrutar el sentirse mierda por no tener a alguien y comenzar a añorar los amores perdidos, truncados o con bonitos momentos, nostalgia como deporte masoquista. Suena The Bravery para llevarme a un bonito pasado, cuya música estaba muy horrible, pero que te recuerda a alguien.<br />

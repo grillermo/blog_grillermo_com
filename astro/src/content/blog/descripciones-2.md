@@ -1,0 +1,7 @@
+---
+title: "Descripciones - 2"
+pubDate: 2014-08-11T05:11:00.000Z
+wpId: 280
+---
+
+<div style="clear: both; text-align: center;"><a href="http://1.bp.blogspot.com/-eMueMUiDWeQ/U-gKK_X4yuI/AAAAAAAABWY/3FvVqjuqgCg/s1600/20-Grand-Budapest-Hotel-Isolation.gif" style="margin-left: 1em; margin-right: 1em;"><img border="0" src="http://1.bp.blogspot.com/-eMueMUiDWeQ/U-gKK_X4yuI/AAAAAAAABWY/3FvVqjuqgCg/s1600/20-Grand-Budapest-Hotel-Isolation.gif" height="246" width="320" /></a></div><br />Se me presentó una posición en el metro que me permite tener una toma de cámara tipo Wes Anderson, el truco es entrar en un carro de metro viejo, de los de la línea 1 perfectamente centrado en la parte posterior del carro, donde se crea un pequeño vacío por la puerta, si el carro está vacío, permite una vista completa de todos los pasajeros que completan la toma como decoración en la simetría interior, las rápidas luces de afuera crean líneas continuas que terminan de enmarcar perfectamente la escena con tonalidades de verdes y azules oscuros enriquecidos por el contraste de la luz pálida de las lámparas de vapor de mercurio fluorescentes<br />Me temo que una cámara de cualquier tipo capaz de captar la escena llamaría demasiado la atención de los pasajeros, arruinando su naturalidad.

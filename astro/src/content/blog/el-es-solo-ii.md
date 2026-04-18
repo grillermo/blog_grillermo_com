@@ -1,0 +1,7 @@
+---
+title: "Él es solo II"
+pubDate: 2014-11-12T13:02:00.000Z
+wpId: 208
+---
+
+Todo mundo está inevitablemente solo.<br /><br />¿Quién sino tu podrá jamás acompañarte en tu nucleo? Solamente tú puedes estar desde lo profundo de ti hasta tu piel, donde nadie nunca podrá acompañarte realmente. Los demás estarán ahí afuera al menos a un cuerpo de distancia siempre.<br /><br />Es esta verdadera soledad la que queremos mitigar pero nunca podremos. Fundirte con alguien, ser junto con otro, tener el lazo más profundo que dos personas pueden tener, jamás volver a estar solo en ningún estado en el que no quieras estarlo. Ojalá la gente pudiera conectarse así como routers wireless: "Hey, buenas noches, mira durante el día imagine este campo de flores para ti" y podrías mostrárselo; "Hey! flotamos en el espacio tomados de las manos. Viendo la historia del universo pasar en cámara rápida los dos juntos".<br /><br />Cuando te sintieras terrible podría ayudarte con la carga emocional, yo aliviaría tus males mentales con mi propio sufrimiento sin dudarlo cada que lo necesitaras. Y compartiría mi felicidad cada que brillara dentro de mi. De la nada te sentirías feliz en momentos aburridos del día.<br /><br />Él es solo porque no puede hacer nada de esto.<br /><br />Atrapado dentro de si mismo le es imposible compartir sino sombras de descripciones de lo que es ser él.

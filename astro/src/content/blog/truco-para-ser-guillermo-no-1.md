@@ -1,0 +1,8 @@
+---
+title: "Truco para ser guillermo no. 1"
+pubDate: 2009-12-02T10:22:00.000Z
+wpId: 663
+categories: ["vida-privada"]
+---
+
+Hacer una hora de meditación en silencio cuando todos en mi casa se han ido, sin música, ni tv, ni libros, no internet, sin juegos, sin la voz tonta en mi cabeza: me deja solo conmigo mismo, con lo que está atrás de la superficialidad de las actividades prácticas, que bien me sirven la mayor parte del tiempo. No es una mente horrible, no es una tormenta lo que se queda conmigo sentado en silencio en mi almohada, son las personas que han influido quien soy, son mis miedos y mis seguridades, aprendo quienes son, que tienen para mi, que me hacen cuando no les estoy poniendo atención, esas horas de en silencio me permiten ver las cosas en tercera persona, como una pelicula pasando frente a mis ojos, no estoy dentro de ellas, no me controlan ni dominan mi voluntad, al principio me llenan irremediablemente, me obligan a ser, observandolas suficiente pierden sentido y se vuelven novelas de un libro viejo, respetables por si mismas, por quien me han hecho, pero no mas el amo tirano de las cadencias que han escrito mi vida.<br />Aveces el viento se mezcla con la lluvia como hoy y me enchila el alma al caminar, pasar un rato conviviendo con ellos aun con la nariz chorreando y los musculos titiritando en silencio, solo sintiendolos hasta que su significado se vuelve fortuito, irrelevante, escogible, me hace sentir ufano y ligero de nuevo.

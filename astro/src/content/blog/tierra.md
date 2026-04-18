@@ -1,0 +1,7 @@
+---
+title: "Tierra"
+pubDate: 2014-05-11T20:59:00.000Z
+wpId: 304
+---
+
+Eventualmente nos daremos cuenta que la forma física es innecesaria, que nuestra presencia en la tierra es dañina, que la restauración es el único camino, convertiremos este jardín de vida en una fabrica de nosotros, saldremos de ella para buscar otra más, esperando volver a encontrarnos a nosotros mismos evolucionados desde otra especie, ya con otra forma, sin intervenir observaremos.<br />Después de edades de hacer esto, veremos que no hay ninguna otra fuente de vida en el universo, que todas las generaciones de nosotros hemos poblado el universo, que debemos conservar la tierra por sobre todas las cosas del universo, será nuestro centro de todo, un santuario, el único lugar sagrado y volcaremos nuestras existencias a su protección, creciendo hasta fundirnos con el sol para mantenerlo vivo, creciendo hasta unirnos con la galaxia para proteger el sistema solar de agujeros negros y cometas, creceremos hasta el universo entero siempre viendo hacia el centro, ese punto azul, nuestra eterna obsesión, siempre viéndolo con ojos celosos y curiosos, que nueva forma de vida brota de sus ambientes, protegiendo la tierra por sobre todas las cosas.

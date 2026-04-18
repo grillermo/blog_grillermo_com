@@ -1,0 +1,7 @@
+---
+title: "El extrañarse"
+pubDate: 2014-11-25T21:58:00.000Z
+wpId: 194
+---
+
+Mientras partimos caminos encontrarás mil cosas dulces que yo tenía, me verás en pedacitos en otros, reirás con mis bromas ajenas, sabrás lo que es quererme con otro nombre. Después entenderás que todos somos uno y que recordar a alguien es aceptar la parte de ti que te hizo ver, vivirla, tenerme realmente, ser uno mismo, serás un lago un poquito más lleno con más color.<br />Yo haré lo mismo, te honraré en tus decisiones, sabré que estás ahí cuando hable como tú, piense como tú, sienta como tú, aunque sea solo un instante.<br />No necesitarnos como piezas de un rompecabezas que se extrañan la una a la otra sino con la seguridad de sabernos realmente uno perteneciente al otro en una imagen completa.<br />Encontraremos otras sorpresas cuando nos volvamos a ver, pedacitos de otros que yo nunca conocí y tu nunca conociste, pero que viven en ti y en mi, será como si nunca nos hubiéramos conocido. Por eso extrañarnos sobra, porque extrañas quien era la persona cuando eramos juntos, pero esa persona deja de ser en cuanto dejamos de ser. ¡Siempre hay algo más! alguien más a quien ver, la sorpresa nunca se acaba, ¡regocijemonos sabiendo esto!

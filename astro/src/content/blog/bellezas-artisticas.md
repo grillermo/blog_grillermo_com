@@ -1,0 +1,8 @@
+---
+title: "Bellezas Artísticas"
+pubDate: 2007-02-23T10:58:00.000Z
+wpId: 943
+categories: ["arte", "concurso", "mujeres-bellas"]
+---
+
+Mi clase de historia de la cultura suele ser bastante entretenida, la maestra nos la cuenta como si fuera un chisme. "Andaban diciendo por su epoca que a Leonardo le gustaban Chiquitos y cachondones y por eso se puso a pintar niños"<br />Otra fuente de entretenimiento es poner en perspectiva actual las obras, por ejemplo, como le habría ido en el sistema de transporte público a Nefertiti con el tocado que se cargaba<span style="text-decoration: underline;"><br /><br /><img src="http://www.artsales.com/images/nefertiti%20restored%20%282%29.jpg" alt="Nenorra egipcia" /><br /><br /></span>Y después no pude evitar admirar su nivel de sabrosura, y la neta si esta de nivel la joven Nefertiti, mi proyecto acontinuación nació de esta idea. Y lo que quiero hacer es saber cual es del arte universal la mujer mas wapisisima que se ha hecho.<br />Por ahora tengo estas candidatas, Botticelli si sabía pintar verdaderas mamis.<br /><br /><img src="http://www.aiwaz.net/modules/coppermine/albums/botticelli/52.jpg" alt="Bellelinda" /><br /><img src="http://imagecache2.allposters.com/images/pic/CORPOD/IH189541~Head-of-a-Woman-Posters.jpg" alt="Cachiloca" /><br /><img src="http://www.aiwaz.net/modules/coppermine/albums/botticelli/normal_32.jpg" alt="Bellelinda" /><br />Como veran me gustan las pelirojas, seguiré buscando entre los anales(ay que miedo) del arte universal.<br /><br />CH!lL<br /><br />Out

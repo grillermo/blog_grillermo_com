@@ -1,0 +1,7 @@
+---
+title: "Where to hide in case of nuclear attack"
+pubDate: 2014-02-01T11:20:00.000Z
+wpId: 336
+---
+
+El viento chiflaba por entre las ventanas que cedían ante las vibraciones, por afuera las cosas se movían y normalmente las cosas NO se movían, voltear a verse unos a otros es casi instintivo, como suricatas cuando encuentran un depredador, en pánico yo menos que ella, pero me pareció apropiado abrazarla protectoramente en esta situación, cosa que jamás haría en ninguna circunstancia, ella me confundía mucho el cerebro, felizmente y en un ambiente de trabajo eso no era muy bueno para mi, aunque ahora esas godinerías ya no importaban, todos ibamos a morir y yo iba a hacerlo con mi crush de toda la vida- hay que quedarnos en el centro del edificio, no corramos, estamos más seguros aqui lo leí en un libro sobre protección civil, solo el sótano es más seguro y no alcanzaremos a llegar, la ola de choque nos atrapará en un punto débil del edificio donde más probablemente moriremos aplastados, estamos muy lejos el fuego no es problema, la onda de choque destruye todo a su paso primero y a mucha mayor distancia, usted quédeseme bien abrazadita de mi, nos quedamos en este cuartito de papelería y estaremos bien vamos a lograrlo.<br /><br /><a href="http://sploid.gizmodo.com/where-to-hide-in-case-of-nuclear-attack-1512601842" target="_blank" rel="noopener noreferrer">[1]</a>

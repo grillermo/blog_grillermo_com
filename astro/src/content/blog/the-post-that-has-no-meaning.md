@@ -1,0 +1,8 @@
+---
+title: "The post that has no meaning"
+pubDate: 2006-12-27T11:10:00.000Z
+wpId: 965
+categories: ["musica"]
+---
+
+<p><span style="" lang="EN-US">Is it like there is no more remembering<br />that we never honored what was once<br />what never did was<br />or its just memory of a forbidden history<br /><br />Still gets me, when the air brings it<br />when my eyes get dry in the inside<br />to pour in silence, like a desert trying to become sea<br />the beach of old silences<br /><br />But i never actually forgot it<br />for literary value of it, for its way to be a tale<br />the novel that i wanted to be written<br />but god wasn’t in the mood<br /><br />It is there, never dying, never living<br />wondering where can I reach it<br />in my darkest hours<br />a gray unborn light<br /><br />Days gone in a movie<br />weeks passed since then<o:p></o:p></span></p>  <p><span style="" lang="EN-US">Months<o:p></o:p></span></p>  <p><span style="" lang="EN-US">Too many of them<o:p></o:p></span></p>  <p><span style="" lang="EN-US">but its a flow with another causeway<br /><!--[if !supportLineBreakNewLine]--><br /><!--[endif]--><o:p></o:p></span></p>  <p><span style="" lang="EN-US">Because i live with life<br />and treasure it like it of my own<o:p></o:p></span></p>  <p><span style="" lang="EN-US">Because in the end<br />its all love<br />love for those that live</span></p><p><span style="" lang="EN-US"></span><span style="" lang="EN-US">Memories for those that …<o:p></o:p></span></p>

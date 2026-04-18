@@ -1,0 +1,7 @@
+---
+title: "Reality check"
+pubDate: 2013-11-24T03:39:00.000Z
+wpId: 347
+---
+
+Dice Kierkegaard que no hay poesía si no hay desamor, que casi podríamos agradecerle al desamor la invención de la poesía.<br /><div>Que para que haya desamor necesita haber amor y un obstáculo insalvable por todo menos por el amor, pero ni aun el amor puede salvarlo, que sin estos elementos no hay poesía o no es poesía sino sátira.&nbsp;</div><div>Que no hay poesía si el amor tiene el obstáculo en si mismo, que los obstáculos necesitan ser exteriores lejos del control de&nbsp;<i>los</i> <i>desdichados, </i>como la pelea familiar era el obstáculo insalvable entre Romeo y Julieta<i>.&nbsp;</i></div><div>Que los obstáculos interiores, lo que pasa dentro de los desdichados, esos son prueba de que no hay amor, pues si hay amor no hay obstáculo alguno, solo hay pasión, y no puede haber poesía sin esa pasión. Que la pasión amorosa es una musa que no acepta compromisos, la que se deja admirar solo por quienes poseen esa pasión.</div><div>Lo mejor que he escrito siempre ha sido por el desamor, pero nunca por ese desamor fuente de infinita pasión del que habla Kierkegaard. Me siento como un farzante, creo que la poesía sublíme está limitada a los locos y a los elegidos por el destino para sufrir enormemente, inaccesible para alguien con mi sensibilidad clase mediera y más problemas inventados que reales.</div><div><br /></div>

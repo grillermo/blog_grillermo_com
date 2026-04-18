@@ -1,0 +1,8 @@
+---
+title: "Yours to keep - Teddybears"
+pubDate: 2007-11-15T11:17:00.000Z
+wpId: 831
+categories: ["musica"]
+---
+
+<div xmlns='http://www.w3.org/1999/xhtml'>La versión original de esta canción no es tan buena como esta colaboración, asi que la subí, arrr soy un pirrrrata.<br /><br />Yours to keep - Teddybears(Feat. Neneh Cherry)<br /><br /><embed align='middle' allowScriptAccess='always' height='20' width='200' wmode='transparent' type='application/x-shockwave-flash' src='http://static.boomp3.com/player.swf?id=2389a771ed01'/><a href="http://boomp3.com/m/2389a771ed01" style="font-size: 9px; color: #ccc; letter-spacing: -1px; text-decoration: none">boomp3.com</a><br /><br />Won't you call my private number?<br />We can go away for the summer!<br /><br />We can drive around with the top down<br />Stereo turned up loud with a fat sound<br />Cause I'm yours to keep if you want to<br />Cause I'm yours to keep if you want to<br /><br />But I hear that you wanna ditch me<br />But you know I'm not such a bad seed.<br /><br />We can drive around with the top down<br />Stereo turned up loud with a fat sound<br />Cause I'm yours to keep if you want to<br />Cause I'm yours to keep if you want to<br /><br />Won't you come on down to the freak show?<br />He can sit along as my hair grows.<br /><br />We can drive around with the top down<br />Stereo turned up loud with a fat sound<br />Cause I'm yours to keep if you want to<br />Cause I'm yours to keep if you want to</div>

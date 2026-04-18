@@ -1,0 +1,7 @@
+---
+title: "El jardín de los pingüinos"
+pubDate: 2015-06-24T09:42:00.000Z
+wpId: 90
+---
+
+En el jardín de los pingüinos se toma té de trucha noruega servido por focas en frak. Sobra decirlo las focas mueren de envidia por lo que a veces le escupen al té las muy desgraciadas.<br />- Pobres miserables, arrastrándose todo el día sobre su cola sin patas.<br />- Lo sé querida, tenemos que ser generosos con los que menos tienen, no olvidemos dejar propina<br />(Al irse dejan el esqueleto de un pescado con la cabeza intacta)<br />- Somos tan buenos, godocleto.<br />- Lo se godoclina.<br />Entre piedras pintadas de pasto y el sol suave del verano polar las parejas de pingüinos tienen pláticas similares, siempre finísimas <strike>personas </strike>aves pendientes de las especies más necesitadas se dejan servir por las focas, arrullan a los leones marinos, le rascan las espaldas a las orcas y juegan con las gaviotas un ping pong de campo con los huevos más blandos disponibles(para que no se rompan).<br />Cuando llega la hora de que se ponga el sol, los pingüinos muestran sus verdadera naturaleza y vuelan hacia el último de rayo verde antes de perderse en la noche con la espalda fundiéndose en la penumbra Negra y la panza con la blanca suavidad del suelo.
