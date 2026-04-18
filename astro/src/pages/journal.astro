@@ -1,0 +1,31 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import PostListWithThumbnails from '../components/PostListWithThumbnails.astro';
+import { getCollection } from 'astro:content';
+
+const allPosts = await getCollection('posts');
+const sortedPosts = allPosts.sort((a, b) => {
+  return new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf();
+});
+
+const posts = sortedPosts.map(post => ({
+  ...post,
+  url: `/posts/${post.id}`,
+  frontmatter: { ...post.data, date: post.data.pubDate, excerpt: post.data.description || '', tags: post.data.tags || post.data.categories || [] },
+}));
+---
+
+<BaseLayout title="Journal">
+  <div class="max-w-3xl mx-auto">
+    <header class="mb-12 text-center" transition:animate="fade">
+      <h1 class="text-5xl mb-4">Journal</h1>
+      <p class="text-xl text-muted-foreground">
+        Explore our latest thoughts, ideas, and stories
+      </p>
+    </header>
+
+    <div transition:animate="fade">
+      <PostListWithThumbnails posts={posts} showTags={true} title="All Posts" />
+    </div>
+  </div>
+</BaseLayout>

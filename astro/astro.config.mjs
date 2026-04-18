@@ -7,7 +7,7 @@ import { defineConfig, fontProviders } from 'astro/config';
 // https://astro.build/config
 export default defineConfig({
 	site: 'https://blog.chiq.me',
-	server: { host: '0.0.0.0' },
+	server: { host: '0.0.0.0', allowedHosts: ['blog.chiq.me'] },
 	integrations: [mdx(), sitemap()],
 	fonts: [
 		{

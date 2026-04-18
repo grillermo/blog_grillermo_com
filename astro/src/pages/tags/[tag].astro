@@ -1,0 +1,52 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import PostList from '../../components/PostList.astro';
+
+export async function getStaticPaths() {
+  const allPosts = await getCollection('posts');
+  
+  const getTags = (post) => post.data.tags || post.data.categories || [];
+  const uniqueTags = [...new Set(allPosts.flatMap(getTags))];
+
+  return uniqueTags.map(tag => {
+    const filteredPosts = allPosts.filter(post => getTags(post).includes(tag));
+    return {
+      params: { tag },
+      props: { posts: filteredPosts },
+    };
+  });
+}
+
+const { tag } = Astro.params;
+const { posts } = Astro.props;
+
+const sortedPosts = posts.sort((a, b) =>
+  new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf()
+);
+
+const formattedPosts = sortedPosts.map(post => ({
+  ...post,
+  url: `/posts/${post.id}`,
+  frontmatter: { ...post.data, date: post.data.pubDate, excerpt: post.data.description || '', tags: post.data.tags || post.data.categories || [] },
+}));
+---
+
+<BaseLayout title={`Posts tagged with "${tag}"`}>
+  <div class="max-w-3xl mx-auto">
+    <header class="mb-12 text-center">
+      <h1 class="text-5xl mb-4">Tag: {tag}</h1>
+      <p class="text-xl text-muted-foreground">
+        {posts.length} {posts.length === 1 ? 'post' : 'posts'} tagged with "{tag}"
+      </p>
+    </header>
+
+    <PostList posts={formattedPosts} />
+    
+    <div class="mt-12 text-center">
+      <a href="/journal" class="cta-button">
+        View All Posts
+      </a>
+    </div>
+  </div>
+</BaseLayout>
