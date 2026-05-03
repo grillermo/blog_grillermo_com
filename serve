@@ -1,4 +1,4 @@
 #!/bin/sh
 set -e
 cd "$(dirname "$0")/astro"
-npm run build && npx serve dist/ --listen 4321
+npm run build && node server.cjs
