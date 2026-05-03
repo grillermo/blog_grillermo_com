@@ -36,6 +36,19 @@ const { Content } = await render(latest);
         padding-top: 1em;
         text-align: center;
       }
+      .older-posts a {
+        color: rgb(var(--black));
+        display: inline-block;
+        line-height: 1;
+        text-decoration: none;
+        transition: 0.2s ease;
+      }
+      .older-posts a:hover {
+        color: rgb(var(--accent));
+      }
+      .older-posts a:visited {
+        color: rgb(var(--gray));
+      }
     </style>
   </head>
   <body>
