@@ -12,13 +12,20 @@ async function start() {
   const lookup = await maxmind.open(path.join(__dirname, '../GeoLite2-City_20260501/GeoLite2-City.mmdb'));
 
   const server = http.createServer((req, res) => {
-    const skip = req.method === 'HEAD' && req.url === '/';
+    if (!req.headers['user-agent']) {
+      res.writeHead(404);
+      res.end();
+      return;
+    }
+
+    const skip = (req.method === 'HEAD' && req.url === '/') || (req.method === 'GET' && req.url === '/robots.txt');
     const start = Date.now();
     const ip = req.headers['cf-connecting-ip'] ?? req.socket.remoteAddress?.replace('::ffff:', '') ?? 'unknown';
     const geo = lookup.get(ip);
     const country = geo?.country?.iso_code ?? geo?.registered_country?.iso_code ?? '?';
     const city = geo?.city?.names?.en ?? '';
-    const location = ` | ${country}${city ? '/' + city : ''} (${ip}) | `;
+    const ua = req.headers['user-agent'] ?? '';
+    const location = ` | ${country}${city ? '/' + city : ''} (${ip}) [${ua}] | `;
 
     if (!skip) {
       const time = new Date();
