@@ -112,3 +112,93 @@ Disallow: /
 
 User-agent: SplitSignalBot
 Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: dotbot
+Disallow: /
+
+User-agent: DotBot/1.1
+Disallow: /
+
+User-agent: DotBot/1.2
+Disallow: /
+
+User-agent: YandexBot
+Disallow: /
+
+User-agent: YandexBot/3.0
+Disallow: /
+
+User-agent: YandexImages
+Disallow: /
+
+User-agent: YandexVideo
+Disallow: /
+
+User-agent: YandexMedia
+Disallow: /
+
+User-agent: YandexBlogs
+Disallow: /
+
+User-agent: YandexFavicons
+Disallow: /
+
+User-agent: YandexWebmaster
+Disallow: /
+
+User-agent: YandexPagechecker
+Disallow: /
+
+User-agent: YandexImageResizer
+Disallow: /
+
+User-agent: YandexAccessibilityBot
+Disallow: /
+
+User-agent: YandexMobileBot
+Disallow: /
+
+User-agent: YandexDirect
+Disallow: /
+
+User-agent: YandexMetrika
+Disallow: /
+
+User-agent: YandexNews
+Disallow: /
+
+User-agent: YandexCatalog
+Disallow: /
+
+User-agent: YandexAntivirus
+Disallow: /
+
+User-agent: YandexVertis
+Disallow: /
+
+User-agent: YandexMarket
+Disallow: /
+
+User-agent: YandexVerticals
+Disallow: /
+
+User-agent: YandexAdNet
+Disallow: /
+
+User-agent: YandexCalendar
+Disallow: /
+
+User-agent: YandexSearchShop
+Disallow: /
+
+User-agent: YandexTurbo
+Disallow: /
+
+User-agent: YaDirectFetcher
+Disallow: /
+
+User-agent: YandexScreenshotBot
+Disallow: /
