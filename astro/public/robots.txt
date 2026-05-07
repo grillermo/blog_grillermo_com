@@ -113,6 +113,15 @@ Disallow: /
 User-agent: SplitSignalBot
 Disallow: /
 
+User-agent: Barkrowler
+Disallow: /
+
+User-agent: Barkrowler/0.9
+Disallow: /
+
+User-agent: Barkrowler/1.0
+Disallow: /
+
 User-agent: DotBot
 Disallow: /
 
