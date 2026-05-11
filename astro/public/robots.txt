@@ -232,3 +232,6 @@ Disallow: /
 
 User-agent: BingPreview
 Disallow: /
+
+User-agent: NetcraftSurveyAgent/1.0
+Disallow: /
