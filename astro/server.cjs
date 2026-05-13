@@ -5,7 +5,7 @@ const fs = require('fs');
 const handler = require('./node_modules/serve-handler/src/index.js');
 const maxmind = require('maxmind');
 const path = require('path');
-const banning = require('./banning');
+const banning = require('./banning.cjs');
 
 const PORT = 4321;
 
