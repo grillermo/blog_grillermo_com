@@ -31,6 +31,19 @@ async function start() {
     const start = Date.now();
     const ip = req.headers['cf-connecting-ip'] ?? req.socket.remoteAddress?.replace('::ffff:', '') ?? 'unknown';
 
+    if (req.method === 'POST' && req.url.split('?')[0].endsWith('.php')) {
+      banning.blockImmediately(ip);
+      res.writeHead(404);
+      res.end();
+      return;
+    }
+
+    if (banning.isPermanentlyBlocked(ip)) {
+      res.writeHead(404);
+      res.end();
+      return;
+    }
+
     if (banning.exponentialBackOff(ip)) {
       res.writeHead(404);
       res.end();

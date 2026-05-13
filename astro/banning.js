@@ -22,6 +22,7 @@ let BLOCKED_AGENTS = [];
 
 const ipResponseLog = new Map();
 const ipBlockLog = new Map();
+const permanentBlocks = new Set();
 
 function init(robotsPath) {
   BLOCKED_AGENTS = parseBlockedAgents(robotsPath);
@@ -55,4 +56,12 @@ function exponentialBackOff(ip) {
   return (ipBlockLog.get(ip) ?? []).length > 3;
 }
 
-module.exports = { init, isBlockedAgent, recordResponse, blockAutomatically, recordBlock, exponentialBackOff };
+function blockImmediately(ip) {
+  permanentBlocks.add(ip);
+}
+
+function isPermanentlyBlocked(ip) {
+  return permanentBlocks.has(ip);
+}
+
+module.exports = { init, isBlockedAgent, recordResponse, blockAutomatically, recordBlock, exponentialBackOff, blockImmediately, isPermanentlyBlocked };
