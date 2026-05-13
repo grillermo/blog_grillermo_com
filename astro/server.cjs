@@ -15,13 +15,9 @@ async function start() {
   const lookup = await maxmind.open(path.join(__dirname, '../GeoLite2-City_20260501/GeoLite2-City.mmdb'));
 
   const server = http.createServer((req, res) => {
-    if (!req.headers['user-agent']) {
-      res.writeHead(404);
-      res.end();
-      return;
-    }
+    const ip = req.headers['cf-connecting-ip'] ?? req.socket.remoteAddress?.replace('::ffff:', '') ?? 'unknown';
 
-    if (banning.isBlockedAgent(req.headers['user-agent'])) {
+    if (banning.shouldBlock(req, ip)) {
       res.writeHead(404);
       res.end();
       return;
@@ -29,33 +25,6 @@ async function start() {
 
     const skip = (req.method === 'HEAD' && req.url === '/') || (req.method === 'GET' && req.url === '/robots.txt');
     const start = Date.now();
-    const ip = req.headers['cf-connecting-ip'] ?? req.socket.remoteAddress?.replace('::ffff:', '') ?? 'unknown';
-
-    if (req.method === 'POST' && req.url.split('?')[0].endsWith('.php')) {
-      banning.blockImmediately(ip);
-      res.writeHead(404);
-      res.end();
-      return;
-    }
-
-    if (banning.isPermanentlyBlocked(ip)) {
-      res.writeHead(404);
-      res.end();
-      return;
-    }
-
-    if (banning.exponentialBackOff(ip)) {
-      res.writeHead(404);
-      res.end();
-      return;
-    }
-
-    if (banning.blockAutomatically(ip)) {
-      banning.recordBlock(ip);
-      res.writeHead(404);
-      res.end();
-      return;
-    }
 
     const geo = lookup.get(ip);
     const country = geo?.country?.iso_code ?? geo?.registered_country?.iso_code ?? '?';

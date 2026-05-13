@@ -64,4 +64,25 @@ function isPermanentlyBlocked(ip) {
   return permanentBlocks.has(ip);
 }
 
-module.exports = { init, isBlockedAgent, recordResponse, blockAutomatically, recordBlock, exponentialBackOff, blockImmediately, isPermanentlyBlocked };
+function shouldBlock(req, ip) {
+  const ua = req.headers['user-agent'];
+  if (!ua) return true;
+  if (isBlockedAgent(ua)) return true;
+
+  if (req.method === 'POST' && req.url.split('?')[0].endsWith('.php')) {
+    blockImmediately(ip);
+    return true;
+  }
+
+  if (isPermanentlyBlocked(ip)) return true;
+  if (exponentialBackOff(ip)) return true;
+
+  if (blockAutomatically(ip)) {
+    recordBlock(ip);
+    return true;
+  }
+
+  return false;
+}
+
+module.exports = { init, isBlockedAgent, recordResponse, blockAutomatically, recordBlock, exponentialBackOff, blockImmediately, isPermanentlyBlocked, shouldBlock };
