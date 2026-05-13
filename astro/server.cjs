@@ -5,60 +5,11 @@ const fs = require('fs');
 const handler = require('./node_modules/serve-handler/src/index.js');
 const maxmind = require('maxmind');
 const path = require('path');
+const banning = require('./banning');
 
 const PORT = 4321;
 
-function parseBlockedAgents(robotsPath) {
-  const content = fs.readFileSync(robotsPath, 'utf8');
-  const blocks = content.split(/\n\s*\n/);
-  const blocked = [];
-  for (const block of blocks) {
-    const lines = block.split('\n').map(l => l.trim()).filter(l => l && !l.startsWith('#'));
-    const agents = lines
-      .filter(l => l.startsWith('User-agent:'))
-      .map(l => l.slice('User-agent:'.length).trim());
-    if (lines.some(l => l === 'Disallow: /')) {
-      for (const agent of agents) {
-        if (agent !== '*') blocked.push(agent.toLowerCase());
-      }
-    }
-  }
-  return blocked;
-}
-
-const BLOCKED_AGENTS = parseBlockedAgents(path.join(__dirname, 'public', 'robots.txt'));
-
-function isBlockedAgent(ua) {
-  const lower = ua.toLowerCase();
-  return BLOCKED_AGENTS.some(bot => lower.includes(bot));
-}
-
-const ipResponseLog = new Map();
-
-function recordResponse(ip, statusCode) {
-  const now = Date.now();
-  const entries = ipResponseLog.get(ip) ?? [];
-  entries.push({ time: now, status: statusCode });
-  ipResponseLog.set(ip, entries.filter(e => now - e.time < 10000));
-}
-
-function blockAutomatically(ip) {
-  const now = Date.now();
-  const entries = ipResponseLog.get(ip) ?? [];
-  return entries.filter(e => now - e.time < 3000 && e.status === 404).length >= 5;
-}
-
-const ipBlockLog = new Map();
-
-function recordBlock(ip) {
-  const times = ipBlockLog.get(ip) ?? [];
-  times.push(Date.now());
-  ipBlockLog.set(ip, times);
-}
-
-function exponentialBackOff(ip) {
-  return (ipBlockLog.get(ip) ?? []).length > 3;
-}
+banning.init(path.join(__dirname, 'public', 'robots.txt'));
 
 async function start() {
   const lookup = await maxmind.open(path.join(__dirname, '../GeoLite2-City_20260501/GeoLite2-City.mmdb'));
@@ -70,7 +21,7 @@ async function start() {
       return;
     }
 
-    if (isBlockedAgent(req.headers['user-agent'])) {
+    if (banning.isBlockedAgent(req.headers['user-agent'])) {
       res.writeHead(404);
       res.end();
       return;
@@ -80,14 +31,14 @@ async function start() {
     const start = Date.now();
     const ip = req.headers['cf-connecting-ip'] ?? req.socket.remoteAddress?.replace('::ffff:', '') ?? 'unknown';
 
-    if (exponentialBackOff(ip)) {
+    if (banning.exponentialBackOff(ip)) {
       res.writeHead(404);
       res.end();
       return;
     }
 
-    if (blockAutomatically(ip)) {
-      recordBlock(ip);
+    if (banning.blockAutomatically(ip)) {
+      banning.recordBlock(ip);
       res.writeHead(404);
       res.end();
       return;
@@ -106,7 +57,7 @@ async function start() {
     }
 
     res.on('finish', () => {
-      recordResponse(ip, res.statusCode);
+      banning.recordResponse(ip, res.statusCode);
       if (!skip && res.statusCode !== 404) {
         const time = new Date();
         const formatted = `${time.toLocaleDateString()} ${time.toLocaleTimeString()}`;

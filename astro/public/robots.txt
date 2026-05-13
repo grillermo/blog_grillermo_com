@@ -244,3 +244,6 @@ Disallow: /
 
 User-agent: MJ12bot/v1.5
 Disallow: /
+
+User-agent: TerraCotta
+Disallow: /
