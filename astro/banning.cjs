@@ -69,7 +69,7 @@ function shouldBlock(req, ip) {
   if (!ua) return true;
   if (isBlockedAgent(ua)) return true;
 
-  if (req.method === 'POST' && req.url.split('?')[0].endsWith('.php')) {
+  if (req.method === 'POST') {
     blockImmediately(ip);
     return true;
   }
