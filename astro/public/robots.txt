@@ -247,3 +247,6 @@ Disallow: /
 
 User-agent: TerraCotta
 Disallow: /
+
+User-agent: DuckDuckBot
+Disallow: /

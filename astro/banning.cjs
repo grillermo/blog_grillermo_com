@@ -74,6 +74,11 @@ function shouldBlock(req, ip) {
     return true;
   }
 
+  if (/\/\.[^/]/.test(req.url.split('?')[0])) {
+    blockImmediately(ip);
+    return true;
+  }
+
   if (isPermanentlyBlocked(ip)) return true;
   if (exponentialBackOff(ip)) return true;
 
