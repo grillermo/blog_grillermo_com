@@ -68,6 +68,10 @@ function shouldBlock(req, ip) {
   const ua = req.headers['user-agent'];
   if (!ua) return true;
   if (isBlockedAgent(ua)) return true;
+  if (/https?:\/\//i.test(ua)) {
+    blockImmediately(ip);
+    return true;
+  }
 
   if (req.method === 'POST') {
     blockImmediately(ip);
