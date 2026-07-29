@@ -65,6 +65,7 @@ function isPermanentlyBlocked(ip) {
 }
 
 function shouldBlock(req, ip) {
+  if (req.method === 'HEAD') return false;
   const ua = req.headers['user-agent'];
   if (!ua) return true;
   if (isBlockedAgent(ua)) return true;

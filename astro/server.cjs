@@ -7,7 +7,7 @@ const maxmind = require('maxmind');
 const path = require('path');
 const banning = require('./banning.cjs');
 
-const PORT = 4321;
+const PORT = parseInt(process.env.PORT, 10) || 4321;
 
 banning.init(path.join(__dirname, 'public', 'robots.txt'));
 
