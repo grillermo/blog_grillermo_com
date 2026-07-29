@@ -1,4 +1,52 @@
-#!/bin/sh
-set -e
+#!/bin/bash
+set -a
+[ -f ./.env ] && . ./.env
+SLOT=${SLOT:-blue}
+PORT=${PORT:-4321}
+if [ "$SLOT" = "green" ]; then
+  PORT=4322
+fi
+set +a
+
+GREEN='\033[32m'
+NC='\033[0m'
+
+tint() {
+  local color=$1; shift
+  "$@" 2>&1 | while IFS= read -r line; do printf "${color}%s${NC}\n" "$line"; done
+}
+
+PID_FILE="/tmp/blog_grillermo_com_${SLOT}.pid"
+echo $$ > "$PID_FILE"
+
+_TOP_CPU_REGISTRY_DIR="${TOP_CPU_SERVICE_REGISTRY:-$HOME/.local/share/top_cpu/services}"
+mkdir -p "$_TOP_CPU_REGISTRY_DIR"
+cat > "$_TOP_CPU_REGISTRY_DIR/blog_grillermo_com.env" <<_TOP_CPU_EOF
+service=blog_grillermo_com
+root=$(cd "$(dirname "$0")" && pwd)
+tmux_session=blog_grillermo_com
+wrapper_pid=$$
+started_at=$(date -Iseconds)
+_TOP_CPU_EOF
+
+GIT_COMMIT=$(git -C "$(dirname "$0")" rev-parse HEAD 2>/dev/null || echo "unknown")
+export GIT_COMMIT PORT
+
 cd "$(dirname "$0")/astro"
-npm run build && node server.cjs
+
+npm run build
+
+cleanup() {
+  lsof -ti tcp:$PORT | xargs kill 2>/dev/null || true
+  rm -f "$PID_FILE"
+  rm -f "$_TOP_CPU_REGISTRY_DIR/blog_grillermo_com.env"
+}
+trap cleanup EXIT INT TERM
+
+tint "$GREEN" node server.cjs &
+APP_PID=$!
+wait $APP_PID
+
+APP_EXIT=$?
+
+exit $APP_EXIT
